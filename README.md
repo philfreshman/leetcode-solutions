@@ -15,6 +15,8 @@
 | Problem                                                                     |                  Go                  |                    C#                    | Complexity                 |  
 |:----------------------------------------------------------------------------|:------------------------------------:|:----------------------------------------:|:---------------------------|  
 | [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [✔️](./go/0020_valid_parentheses.go) | [✔️](./csharp/0020-valid-parentheses.cs) | time: O(n) <br>space: O(n) |
+| [0155 - Min Stack](https://leetcode.com/problems/min-stack/)                |     [✔️](./go/0155_min_stack.go)     |     [✔️](./csharp/0155-min-stack.cs)     | time: O(1) <br>space: O(n) |
+
 
 
 
