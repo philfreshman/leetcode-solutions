@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"reflect"
-)
-
 func topKFrequent(nums []int, k int) (res []int) {
 	countMap := map[int]int{}
 	for _, num := range nums {
@@ -28,17 +23,4 @@ func topKFrequent(nums []int, k int) (res []int) {
 	}
 
 	return
-}
-
-func main() {
-	nums := []int{1, 1, 2, 2, 3}
-	k := 2
-	expectedResult := []int{1, 2}
-	result := topKFrequent(nums, k)
-
-	if reflect.DeepEqual(result, expectedResult) {
-		fmt.Println("The results are equal.")
-	} else {
-		fmt.Println("The results are not equal.")
-	}
 }
