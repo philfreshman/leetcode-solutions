@@ -1,6 +1,3 @@
-// time: O(n)
-// space O(n)
-
 public class Solution {
     public int[] ProductExceptSelf(int[] nums) {
         var res = new int[nums.Length];
