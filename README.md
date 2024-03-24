@@ -9,6 +9,8 @@
 | [0238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [✔️](./go/0238_product_of_array_except_self.go) | [✔️](./csharp/0238-product-of-array-except-self.cs) | time:  <br>space:          |  
 | [0242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           |        [✔️](./go/0242_valid_anagram.go)         |                         ❌️                          | time:  <br>space:          |  
 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                       |   [✔️](./go/0347_top_k_frequent_elements.go)    |   [✔️](./csharp/0347-top-k-frequent-elements.cs)    | time:  <br>space:          |
+| [0036 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                             |         [✔️](./go/0036_valid_sudoku.go)         |         [✔️](./csharp/0036-valid-sudoku.cs)         | time: O(1) <br>space: O(1) |
+
 
 ### Stack
 
