@@ -1,16 +1,12 @@
-// time: O(n)
-// space: O(n)
-
 public class Solution {
     public bool IsValid(string s) {
 
+        var stack = new List<char>();
         var map = new Dictionary<char, char>() {
             {')', '('},
             {'}', '{'},
             {']', '['},
         };
-
-        var stack = new List<char>();
 
         foreach (var bracket in s) {
             var hasKey = map.ContainsKey(bracket);
@@ -27,7 +23,6 @@ public class Solution {
             // if last element is different that the pair
             if (stack[^1] != map[bracket]) return false;
 
-            // remove last element from stack
             stack.RemoveAt(stack.Count - 1);
         }
 
