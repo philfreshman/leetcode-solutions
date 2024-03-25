@@ -20,5 +20,9 @@
 | [0155 - Min Stack](https://leetcode.com/problems/min-stack/)                |     [✔️](./go/0155_min_stack.go)     |     [✔️](./csharp/0155-min-stack.cs)     | time: O(1) <br>space: O(n) |
 
 
+### Binary Search
 
+| Problem                                                                               |                    Go                     |                      C#                       | Complexity                     |  
+|:--------------------------------------------------------------------------------------|:-----------------------------------------:|:---------------------------------------------:|:-------------------------------|  
+| [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position) | [✔️](./go/0035_search_insert_position.go) | [✔️](./csharp/0035-search-insert-position.cs) | time: O(log n) <br>space: O(1) |
 
