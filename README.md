@@ -11,6 +11,7 @@
 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                       |   [✔️](./go/0347_top_k_frequent_elements.go)    |   [✔️](./csharp/0347-top-k-frequent-elements.cs)    | time:  <br>space:          |
 | [0036 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                             |         [✔️](./go/0036_valid_sudoku.go)         |         [✔️](./csharp/0036-valid-sudoku.cs)         | time: O(1) <br>space: O(1) |
 | [0271 - Encode And Decode Strings](https://neetcode.io/problems/string-encode-and-decode/)                     |  [✔️](./go/0271_encode_and_decode_strings.go)   |  [✔️](./csharp/0271-encode-and-decode-strings.cs)   | time: O(n) <br>space: O(n) |
+| [0128 - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)              | [✔️](./go/0128_longest_consecutive_sequence.go) |                         ❌️                          | time: O(n) <br>space: O(n) |
 
 
 ### Stack
