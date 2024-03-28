@@ -22,6 +22,13 @@
 | [0155 - Min Stack](https://leetcode.com/problems/min-stack/)                |     [✔️](./go/0155_min_stack.go)     |     [✔️](./csharp/0155-min-stack.cs)     | time: O(1) <br>space: O(n) |
 
 
+### Two Pointers
+
+| Problem                                                                    |                 Go                  |                   C#                    | Complexity                 |  
+|:---------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------:|:---------------------------|  
+| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [✔️](./go/0125_valid_palindrome.go) | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
+
+
 ### Binary Search
 
 | Problem                                                                               |                    Go                     |                      C#                       | Complexity                     |  
