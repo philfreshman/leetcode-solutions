@@ -21,6 +21,7 @@
 | [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                |        [✔️](./go/0020_valid_parentheses.go)         |        [✔️](./csharp/0020-valid-parentheses.cs)         | time: O(n) <br>space: O(n) |
 | [0155 - Min Stack](https://leetcode.com/problems/min-stack/)                                               |            [✔️](./go/0155_min_stack.go)             |            [✔️](./csharp/0155-min-stack.cs)             | time: O(1) <br>space: O(n) |
 | [0150 - Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [✔️](./go/0150_evaluate_reverse_polish_notation.go) | [✔️](./csharp/0150-evaluate-reverse-polish-notation.cs) | time: O(n) <br>space: O(n) |
+| [0739 - Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |        [✔️](./go/0739_daily_temperatures.go)        |                         [❌️]()                          | time: O(n) <br>space: O(n) |
 
 
 ### Two Pointers
