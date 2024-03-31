@@ -1,3 +1,5 @@
+[Go to stack](#stack)
+
 
 ### Arrays & Hashing
 
