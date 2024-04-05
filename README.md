@@ -30,9 +30,10 @@
 
 ### Two Pointers
 
-| Problem                                                                    |                 Go                  |                   C#                    | Complexity                 |  
-|:---------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------:|:---------------------------|  
-| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [✔️](./go/0125_valid_palindrome.go) | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
+| Problem                                                                             |                 Go                  |                   C#                    | Complexity                 |  
+|:------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------:|:---------------------------|  
+| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          | [✔️](./go/0125_valid_palindrome.go) | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
+| [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |    [✔️](./go/0167_two_sum_II.go)    |                 [❌️]()                  | time: O(n) <br>space: O(1) |
 
 
 ### Binary Search
