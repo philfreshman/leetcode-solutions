@@ -30,17 +30,18 @@
 
 ### Two Pointers
 
-| Problem                                                                                            |                 Go                  |                   C#                    | Complexity                 |  
-|:---------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------:|:---------------------------|  
-| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                         | [✔️](./go/0125_valid_palindrome.go) | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
-| [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)                |    [✔️](./go/0167_two_sum_II.go)    |                 [❌️]()                  | time: O(n) <br>space: O(1) |
-| [0016 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |    [✔️](./go/0011_container_with_most_water.go)    |                 [❌️]()                  | time: O(n) <br>space: O(1) |
+| Problem                                                                                      |                      Go                      |                   C#                    | Complexity                 |  
+|:---------------------------------------------------------------------------------------------|:--------------------------------------------:|:---------------------------------------:|:---------------------------|  
+| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                   |     [✔️](./go/0125_valid_palindrome.go)      | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
+| [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)          |        [✔️](./go/0167_two_sum_II.go)         |                 [❌️]()                  | time: O(n) <br>space: O(1) |
+| [0016 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [✔️](./go/0011_container_with_most_water.go) |                 [❌️]()                  | time: O(n) <br>space: O(1) |
 
 
 ### Binary Search
 
 | Problem                                                                               |                    Go                     |                      C#                       | Complexity                     |  
 |:--------------------------------------------------------------------------------------|:-----------------------------------------:|:---------------------------------------------:|:-------------------------------|  
+| [0704 - Binary Search](https://leetcode.com/problems/binary-search/description/)      |     [✔️](./go/0704_binary_search.go)      |                    [❌️]()                     | time: O(log n) <br>space: O(1) |
 | [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position) | [✔️](./go/0035_search_insert_position.go) | [✔️](./csharp/0035-search-insert-position.cs) | time: O(log n) <br>space: O(1) |
 
 
