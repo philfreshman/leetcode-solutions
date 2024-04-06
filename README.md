@@ -46,9 +46,10 @@
 
 ### Backtracking
 
-| Problem                                                         |               Go               |   C#   | Complexity                 |  
-|:----------------------------------------------------------------|:------------------------------:|:------:|:---------------------------|  
-| [0137 - Word Search](https://leetcode.com/problems/word-search) | [✔️](./go/0137_word_search.go) | [❌️]() | time: O(n) <br>space: O(n) |
+| Problem                                                                                        |                   Go                    |   C#   | Complexity                                         |  
+|:-----------------------------------------------------------------------------------------------|:---------------------------------------:|:------:|:---------------------------------------------------|  
+| [0137 - Word Search](https://leetcode.com/problems/word-search)                                |     [✔️](./go/0137_word_search.go)      | [❌️]() | time: O(n) <br>space: O(n)                         |
+| [0022 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [✔️](./go/0022_generate_parentheses.go) | [❌️]() | time: O(4^n / sqrt(n)) <br>space: O(4^n / sqrt(n)) |
 
 
 
