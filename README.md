@@ -39,10 +39,11 @@
 
 ### Binary Search
 
-| Problem                                                                               |                    Go                     |                      C#                       | Complexity                     |  
-|:--------------------------------------------------------------------------------------|:-----------------------------------------:|:---------------------------------------------:|:-------------------------------|  
-| [0704 - Binary Search](https://leetcode.com/problems/binary-search/description/)      |     [✔️](./go/0704_binary_search.go)      |                    [❌️]()                     | time: O(log n) <br>space: O(1) |
-| [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position) | [✔️](./go/0035_search_insert_position.go) | [✔️](./csharp/0035-search-insert-position.cs) | time: O(log n) <br>space: O(1) |
+| Problem                                                                                    |                    Go                     |                      C#                       | Complexity                         |  
+|:-------------------------------------------------------------------------------------------|:-----------------------------------------:|:---------------------------------------------:|:-----------------------------------|  
+| [0704 - Binary Search](https://leetcode.com/problems/binary-search/description/)           |     [✔️](./go/0704_binary_search.go)      |                    [❌️]()                     | time: O(log n) <br>space: O(1)     |
+| [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position)      | [✔️](./go/0035_search_insert_position.go) | [✔️](./csharp/0035-search-insert-position.cs) | time: O(log n) <br>space: O(1)     |
+| [0074 - Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |   [✔️](./go/0074_search_a_2d_matrix.go)   |                    [❌️]()                     | time: O(log m * n) <br>space: O(1) |
 
 
 ### Backtracking
