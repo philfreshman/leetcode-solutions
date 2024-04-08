@@ -4,6 +4,8 @@
 - [Two Pointers](#two-pointers)
 - [Binary Search](#binary-search)
 - [Backtracking](#backtracking)
+- [Sliding Window](#sliding-window)
+- [Linked Lists](#linked-list)
 
 
 ### Arrays & Hashing
@@ -64,7 +66,12 @@
 
 | Problem                                                                                                              |                         Go                         | C# | Complexity                 |  
 |:---------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------:|:--:|:---------------------------|  
-| [0121 - Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [✔️](./go/0121_best_time_to_buy_and_sell_stock.go) | ❌️ | time: O(n) <br>space: O(1) |
+| [0121 - Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [✔️](./go/0121_best_time_to_buy_and_sell_stock.go) | ❌️ | time: O(n) <br>space: O(1) |
 
 
+### Linked List
+
+| Problem                                                                                     |                  Go                   | Complexity                 |  
+|:--------------------------------------------------------------------------------------------|:-------------------------------------:|:---------------------------|  
+| [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [✔️](./go/206_reverse_linked_list.go) | time: O(n) <br>space: O(1) |
 
