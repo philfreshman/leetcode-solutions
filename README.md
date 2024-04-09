@@ -71,7 +71,8 @@
 
 ### Linked List
 
-| Problem                                                                                     |                  Go                   | Complexity                 |  
-|:--------------------------------------------------------------------------------------------|:-------------------------------------:|:---------------------------|  
-| [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [✔️](./go/206_reverse_linked_list.go) | time: O(n) <br>space: O(1) |
+| Problem                                                                                            |                    Go                     | Complexity                     |  
+|:---------------------------------------------------------------------------------------------------|:-----------------------------------------:|:-------------------------------|  
+| [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       |  [✔️](./go/0206_reverse_linked_list.go)   | time: O(n) <br>space: O(1)     |
+| [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [✔️](./go/0021_merge_two_sorted_lists.go) | time: O(n+m) <br>space: O(n+m) |
 
