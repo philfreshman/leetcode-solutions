@@ -6,6 +6,7 @@
 - [Backtracking](#backtracking)
 - [Sliding Window](#sliding-window)
 - [Linked Lists](#linked-list)
+- [Trees](#trees)
 
 
 ### Arrays & Hashing
@@ -76,3 +77,8 @@
 | [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       |  [✔️](./go/0206_reverse_linked_list.go)   | time: O(n) <br>space: O(1)     |
 | [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [✔️](./go/0021_merge_two_sorted_lists.go) | time: O(n+m) <br>space: O(n+m) |
 
+### Trees
+
+| Problem                                                                                            |                       Go                        | Complexity                 |  
+|:---------------------------------------------------------------------------------------------------|:-----------------------------------------------:|:---------------------------|  
+| [0104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [✔️](./go/0104_maximum_depth_of_binary_tree.go) | time: O(n) <br>space: O(1) |
