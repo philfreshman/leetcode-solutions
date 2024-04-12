@@ -65,9 +65,10 @@
 
 ### Sliding Window
 
-| Problem                                                                                                              |                         Go                         | C# | Complexity                 |  
-|:---------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------:|:--:|:---------------------------|  
-| [0121 - Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [✔️](./go/0121_best_time_to_buy_and_sell_stock.go) | ❌️ | time: O(n) <br>space: O(1) |
+| Problem                                                                                                                                           |                                Go                                 | Complexity                 |  
+|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------:|:---------------------------|  
+| [0003 - Longest Substring Without repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [✔️](./go/0003_longest_substring_without_repeating_characters.go) | time: O(n) <br>space: O(n) |
+| [0121 - Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                              |        [✔️](./go/0121_best_time_to_buy_and_sell_stock.go)         | time: O(n) <br>space: O(1) |
 
 
 ### Linked List
