@@ -1,5 +1,5 @@
 ### Content:
-- [Arrays](#arrays--hashing)
+- [Arrays & Hashing](#arrays--hashing)
 - [Stack](#stack)
 - [Two Pointers](#two-pointers)
 - [Binary Search](#binary-search)
@@ -7,6 +7,7 @@
 - [Sliding Window](#sliding-window)
 - [Linked Lists](#linked-list)
 - [Trees](#trees)
+- [Math & Geometry](#math--geometry)
 
 
 ### Arrays & Hashing
@@ -83,3 +84,11 @@
 | Problem                                                                                            |                       Go                        | Complexity                 |  
 |:---------------------------------------------------------------------------------------------------|:-----------------------------------------------:|:---------------------------|  
 | [0104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [✔️](./go/0104_maximum_depth_of_binary_tree.go) | time: O(n) <br>space: O(1) |
+
+
+### Math & Geometry
+
+| Problem                                                                            |               Go                | Complexity                           |  
+|:-----------------------------------------------------------------------------------|:-------------------------------:|:-------------------------------------|  
+| [0204 - Count Primes](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [✔️](./go/0204_count_primes.go) | time: O(n log log n) <br>space: O(n) |
+
