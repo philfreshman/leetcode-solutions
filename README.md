@@ -39,11 +39,13 @@
 
 ### Two Pointers
 
-| Problem                                                                                      |                      Go                      |                   C#                    | Complexity                 |  
-|:---------------------------------------------------------------------------------------------|:--------------------------------------------:|:---------------------------------------:|:---------------------------|  
-| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                   |     [✔️](./go/0125_valid_palindrome.go)      | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n) |
-| [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)          |        [✔️](./go/0167_two_sum_II.go)         |                    ❌                    | time: O(n) <br>space: O(1) |
-| [0016 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [✔️](./go/0011_container_with_most_water.go) |                    ❌                    | time: O(n) <br>space: O(1) |
+| Problem                                                                                      |                      Go                      |                   C#                    | Complexity                   |  
+|:---------------------------------------------------------------------------------------------|:--------------------------------------------:|:---------------------------------------:|:-----------------------------|  
+| [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                   |     [✔️](./go/0125_valid_palindrome.go)      | [✔️](./csharp/0125-valid-palindrome.cs) | time: O(n) <br>space: O(n)   |
+| [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)          |        [✔️](./go/0167_two_sum_II.go)         |                    ❌                    | time: O(n) <br>space: O(1)   |
+| [0016 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [✔️](./go/0011_container_with_most_water.go) |                    ❌                    | time: O(n) <br>space: O(1)   |
+| [0015 - 3sum](https://leetcode.com/problems/3sum/description/)                               |           [✔️](./go/0015_3sum.go)            |                    ❌                    | time: O(n^2) <br>space: O(n) |
+
 
 
 ### Binary Search
