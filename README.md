@@ -57,6 +57,7 @@
 | [0074 - Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                         |          [✔️](./go/0074_search_a_2d_matrix.go)          |                                               | time: O(log m * n) <br>space: O(1) |
 | [0153 - Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [✔️](./go/0153_find_minimum_in_rotated_sorted_array.go) |                                               | time: O(log n) <br>space: O(1)     |
 | [0033 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |       [✔️](./go/0033_search_in_rotated_array.go)        |                                               | time: O(log n) <br>space: O(1)     |
+| [0981 - Time Based Key Values Store](https://leetcode.com/problems/time-based-key-value-store/description/)        |      [✔️](./go/0981_time_based_key_value_store.go)      |                                               | time: O(log n) <br>space: O(1)     |
 
 ### Backtracking
 
