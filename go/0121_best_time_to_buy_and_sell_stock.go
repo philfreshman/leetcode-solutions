@@ -1,23 +1,14 @@
 package main
 
+// time: O(n)
+// space: O(1)
+
 func maxProfit(prices []int) int {
+	res := 0
 	lowest := prices[0]
-	highest := prices[0]
-	result := 0
-
-	for _, price := range prices {
-		if price < lowest {
-			lowest = price
-			highest = price
-			continue
-		}
-		if price > highest {
-			highest = price
-		}
-		if highest-lowest > result {
-			result = highest - lowest
-		}
+	for i := 0; i < len(prices); i++ {
+		lowest = min(lowest, prices[i])
+		res = max(prices[i]-lowest, res)
 	}
-
-	return result
+	return res
 }
