@@ -12,7 +12,7 @@
 
 ### Arrays & Hashing
 
-| Problem                                                                                                        |                       Go                        |                         C#                          |                      Typescript                       | Complexity                        |  
+| Problem                                                                                                        |                       Go                        |                         C#                          |                          TS                           | Complexity                        |  
 |:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------|  
 | [0001 - Two Sum](https://leetcode.com/problems/two-sum/)                                                       |           [✔️](./go/0001_two_sum.go)            |           [✔️](./csharp/0001-two-sum.cs)            |      [✔️](typescript/solutions/0001-two-sum.ts)       | time: O(n) <br>space: O(n)        |  
 | [0049 - Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                         |        [✔️](./go/0049_group_anagrams.go)        |        [✔️](./csharp/0049-group-anagrams.cs)        |                                                       | time: O(n *m)  <br>space: O(n *k) |  
@@ -83,7 +83,7 @@
 |:---------------------------------------------------------------------------------------------------|:-----------------------------------------:|:-----------------------------------------------------------:|:-------------------------------|  
 | [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       |  [✔️](./go/0206_reverse_linked_list.go)   |  [✔️](./typescript/solutions/0206-reverse-linked-list.ts)   | time: O(n) <br>space: O(1)     |
 | [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [✔️](./go/0021_merge_two_sorted_lists.go) | [✔️](./typescript/solutions/0021-merge-two-sorted-lists.ts) | time: O(n+m) <br>space: O(n+m) |
-| [0141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)           |   [✔️](./go/0141_linked_list_cycle.go)    |                                                             | time: O(n) <br>space: O(1)     |
+| [0141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)           |   [✔️](./go/0141_linked_list_cycle.go)    |   [✔️](./typescript/solutions/0141-linked-list-cycle.ts)    | time: O(n) <br>space: O(1)     |
 
 ### Trees
 
