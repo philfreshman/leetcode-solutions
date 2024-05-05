@@ -79,11 +79,11 @@
 
 ### Linked List
 
-| Problem                                                                                            |                    Go                     | Complexity                     |  
-|:---------------------------------------------------------------------------------------------------|:-----------------------------------------:|:-------------------------------|  
-| [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       |  [✔️](./go/0206_reverse_linked_list.go)   | time: O(n) <br>space: O(1)     |
-| [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [✔️](./go/0021_merge_two_sorted_lists.go) | time: O(n+m) <br>space: O(n+m) |
-| [0141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)           |   [✔️](./go/0141_linked_list_cycle.go)    | time: O(n) <br>space: O(1)     |
+| Problem                                                                                            |                    Go                     |                             TS                              | Complexity                     |  
+|:---------------------------------------------------------------------------------------------------|:-----------------------------------------:|:-----------------------------------------------------------:|:-------------------------------|  
+| [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       |  [✔️](./go/0206_reverse_linked_list.go)   |  [✔️](./typescript/solutions/0206-reverse-linked-list.ts)   | time: O(n) <br>space: O(1)     |
+| [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [✔️](./go/0021_merge_two_sorted_lists.go) | [✔️](./typescript/solutions/0021-merge-two-sorted-lists.ts) | time: O(n+m) <br>space: O(n+m) |
+| [0141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)           |   [✔️](./go/0141_linked_list_cycle.go)    |                                                             | time: O(n) <br>space: O(1)     |
 
 ### Trees
 
