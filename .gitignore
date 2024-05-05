@@ -87,8 +87,6 @@ x64/
 *_i.h
 *.ilk
 *.meta
-*.obj
-*.pch
 *.pdb
 *.pgc
 *.pgd
@@ -104,7 +102,6 @@ x64/
 *.vssscc
 .builds
 *.pidb
-*.log
 *.svclog
 *.scc
 
