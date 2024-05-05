@@ -12,9 +12,9 @@ type pair struct {
 	min int
 }
 
-func Constructor() MinStack {
-	return MinStack{}
-}
+// func Constructor() MinStack {
+// 	return MinStack{}
+// }
 
 func (s *MinStack) Push(val int) {
 	minVal := val
