@@ -1,4 +1,4 @@
-export class ListNode {
+class ListNode {
   val: number
   next: ListNode | null
   constructor(val?: number, next?: ListNode | null) {
@@ -7,13 +7,36 @@ export class ListNode {
   }
 }
 
-export function reverseList(head: ListNode | null): ListNode | null {
-  let newHead: ListNode | null = null
+// in-place solution
+// time: O(n)
+// space: O(1)
 
-  while (head !== null) {
-    newHead = new ListNode(head.val, newHead)
-    head = head.next
+function reverseList(head: ListNode | null): ListNode | null {
+  let prev: ListNode | null = null
+  let current: ListNode | null = head
+  let next: ListNode | null = null
+
+  while (current !== null) {
+    next = current.next
+    current.next = prev
+    prev = current
+    current = next
   }
 
-  return newHead
+  return prev
 }
+
+// new-copy solution
+// time: O(n)
+// space: O(n)
+
+// function reverseList(head: ListNode | null): ListNode | null {
+//   let newHead: ListNode | null = null
+//
+//   while (head !== null) {
+//     newHead = new ListNode(head.val, newHead)
+//     head = head.next
+//   }
+//
+//   return newHead
+// }
