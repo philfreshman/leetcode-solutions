@@ -5,20 +5,33 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// recursive solution
+// time: O(n)
+// space: O(n)
+
+func reverseList0(head *ListNode) *ListNode {
+	if head == nil || head.Next == nil {
+		return head
+	}
+	reversedRest := reverseList0(head.Next)
+	head.Next.Next = head
+	head.Next = nil
+	return reversedRest
+}
+
 // in-place solution
 // time: O(n)
 // space: O(1)
 
-func reverseList(head *ListNode) *ListNode {
+func reverseList1(head *ListNode) *ListNode {
 	var prev *ListNode
-	current := head
 	var next *ListNode
 
-	for current != nil {
-		next = current.Next
-		current.Next = prev
-		prev = current
-		current = next
+	for head != nil {
+		next = head.Next
+		head.Next = prev
+		prev = head
+		head = next
 	}
 
 	return prev
@@ -28,15 +41,15 @@ func reverseList(head *ListNode) *ListNode {
 // time: O(n)
 // space: O(n)
 
-// func reverseList(head *ListNode) *ListNode {
-// 	var newHead *ListNode
-//
-// 	for head != nil {
-// 		newHead = &ListNode{
-// 			Val:  head.Val,
-// 			Next: newHead,
-// 		}
-// 		head = head.Next
-// 	}
-// 	return newHead
-// }
+func reverseList2(head *ListNode) *ListNode {
+	var newHead *ListNode
+
+	for head != nil {
+		newHead = &ListNode{
+			Val:  head.Val,
+			Next: newHead,
+		}
+		head = head.Next
+	}
+	return newHead
+}
